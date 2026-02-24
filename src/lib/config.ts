@@ -1,0 +1,4 @@
+export const STORE_ID = "1d3ea319-7ff7-43e1-b19d-821f5b887485";
+export const STRIPE_PUBLISHABLE_KEY =
+  "pk_live_51Rk9SNP66p9BDoW4lgxDnuqvNZYEaL400FCX0GStvuaslkEMBZNRqln5M5bDcBSBmFmR7hlY0pDcA4u4VIi8CRIg00KkqRzlVs";
+export const LOVIVO_STRIPE_ACCOUNT_ID = "acct_1Rk9SNP66p9BDoW4";
